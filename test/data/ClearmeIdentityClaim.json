@@ -1,0 +1,15 @@
+{
+    "issuer": "https://www.clear.me/",
+    "claim": {
+        "firstName" : "John",
+        "lastName" : "Doe",
+        "email" : "jd@gmail.com",
+        "phoneNumber" : "7202337788"
+    },
+    "signature": {
+        "type": "LinkedDataSignature2015",
+        "created": "2016-06-18T21:10:38", 
+        "creator": "https://www.clear.me/",
+        "signatureValue": "0x0F4F2Ac550A1b4e2280d04c21cEa7EBD822934b5"         
+    }
+}

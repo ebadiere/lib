@@ -1,0 +1,14 @@
+{
+    "issuer": "https://www.cuboulder.com/prof",
+    "claim": {
+        "GPA375": "True",
+        "SocialActivism": "True",
+        "Merit": "True"
+    },
+    "signature": {
+        "type": "LinkedDataSignature2015",
+        "created": "2016-06-18T21:10:38", 
+        "creator": "https://www.cuboulder.com/sjw/",
+        "signatureValue": "0x0F4F2Ac550A1b4e2280d04c21cEa7EBD822934b5"         
+    }
+}

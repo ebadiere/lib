@@ -1,0 +1,32 @@
+{
+    "issuer": "https://www.cuboulder.com/",
+    "claim": {
+            "education": {
+                "University of Colorado, Boulder": [
+                {
+                    "student_id": "1001",
+                    "enrolled": "09/01/2016",
+                    "major": "BS, Business Administration"
+                },
+                {
+                    "emails": [
+                        {
+                            "email": "maildanellis@yahoo.com",
+                            "valid": "true"
+                        },
+                        {
+                            "email": "maildanellis@gmail.com",
+                            "valid": "true"
+                        }
+                    ]
+                }
+                ]
+            }
+        },
+    "signature": {
+        "type": "LinkedDataSignature2015",
+        "created": "2016-06-18T21:10:38", 
+        "creator": "https://www.cuboulder.com/",
+        "signatureValue": "0x0F4F2Ac550A1b4e2280d04c21cEa7EBD822934b5"         
+    }
+}

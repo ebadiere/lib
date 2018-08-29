@@ -1,0 +1,12 @@
+.idea
+.tern-port
+.DS_Store
+CMakeLists.txt
+cmake-build-debug/
+node_modules/
+infura.env
+passPhrase.env
+pKey.env
+*.log
+/build
+.truffle-solidity-loader
